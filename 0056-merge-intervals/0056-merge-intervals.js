@@ -6,9 +6,8 @@ var merge = function(intervals) {
     if(intervals.length <= 1) return intervals;
     intervals = intervals.sort((a, b) => a[0] - b[0]) 
     const result = [];
-    let left = 0;
-    let right = left + 1;
-    let currentResult = intervals[left];
+    let right = 1;
+    let currentResult = intervals[0];
     while(right < intervals.length){
         if(currentResult[1] >= intervals[right][0]){
             currentResult = [currentResult[0], Math.max(intervals[right][1], currentResult[1])];
