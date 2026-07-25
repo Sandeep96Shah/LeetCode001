@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0056-merge-intervals) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
