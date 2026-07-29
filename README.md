@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0238-product-of-array-except-self) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -103,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
