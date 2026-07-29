@@ -20,7 +20,6 @@ var convert = function(s, numRows) {
         row = numRows - 2;
         while(row > 0 && col < n){
             arr[row][col] = s[count];
-            console.log(row, col, s[count]);
             row--;
             col++;
             count++;
