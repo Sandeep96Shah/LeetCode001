@@ -4,7 +4,6 @@
  * @return {string}
  */
 var convert = function(s, numRows) {
-    console.log({s: s.length})
     const n = s.length;
     const arr = Array.from({ length: numRows }, () => []);
     let count = 0;
