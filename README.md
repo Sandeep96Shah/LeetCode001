@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0141-linked-list-cycle) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
