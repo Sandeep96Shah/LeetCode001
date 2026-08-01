@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sandeep96Shah/LeetCode001/tree/master/0155-min-stack) |
 ## Design
 |  |
