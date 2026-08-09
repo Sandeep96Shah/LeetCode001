@@ -11,32 +11,30 @@
  * @return {number}
  */
 var countNodes = function(root) {
-     if (!root) return 0;
+    if(!root) return 0;
 
-    const leftHeight = getLeftHeight(root);
-    const rightHeight = getRightHeight(root);
+    const leftHeight = getHeight(root, "l");
+    const rightHeight = getHeight(root, "r");
 
-    if (leftHeight === rightHeight) {
-        return (1 << leftHeight) - 1;
+    if(leftHeight === rightHeight){
+        return 2 ** rightHeight - 1;
     }
 
     return 1 + countNodes(root.left) + countNodes(root.right);
 };
 
-function getLeftHeight(node) {
-    let height = 0;
-    while (node) {
-        height++;
-        node = node.left;
-    }
-    return height;
-}
+const getHeight = (node, side) => {
+    if(!node) return 0;
 
-function getRightHeight(node) {
     let height = 0;
-    while (node) {
+
+    while(node){
         height++;
-        node = node.right;
+        if(side==="l"){
+            node = node.left;
+        }else{
+            node = node.right;
+        }
     }
     return height;
 }
