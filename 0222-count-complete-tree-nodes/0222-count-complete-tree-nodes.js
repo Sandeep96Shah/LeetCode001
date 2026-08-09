@@ -13,11 +13,11 @@
 var countNodes = function(root) {
     if(!root) return 0;
 
-    const leftHeight = getHeight(root, "l");
-    const rightHeight = getHeight(root, "r");
+    const leftHeight = getHeight(root.left, "l");
+    const rightHeight = getHeight(root.right, "r");
 
     if(leftHeight === rightHeight){
-        return 2 ** rightHeight - 1;
+        return 2 ** (rightHeight + 1) - 1;
     }
 
     return 1 + countNodes(root.left) + countNodes(root.right);
